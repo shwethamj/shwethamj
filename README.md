@@ -4,22 +4,18 @@
 <br>
 <br>
 
-- 🌱 I’m currently been learning **Golang and Scala**
+- 🌱 I’m currently been learning @ **Parvam**
+- 💻 currently doing as Technical Trainee engineer @**Parvam consul-pvt.ltd**
+- 💻 All of my projects are available on [GitHub](https://github.com/shwethamj)
 
-- 👨‍💻 I’m currently working at Amazon - **Solution Architect  And  Research Scientist At OrbitX**
+- 💬 Ask me about **Java, Full stcak Development, powerBI**
 
-- 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
-  
-- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
-
-- 💬 Ask me about **Programming, Flutter Development, Cyber Security, Aws Cloud**
-
-- 📫 Reach out to me at **rnithin@aol.com**
+- 📫 Reach out to me at **Shwethamj26@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 <div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwethamj&show_icons=true&locale=en" alt="shwethamj" /></p>
 <br>
 </div>
 <br>
