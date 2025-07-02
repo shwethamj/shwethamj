@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently been learning @ **Parvam**
+- 🌱 I’m currently been learning **Full Stack Development**
 - 💻 currently doing as Technical Trainee engineer @**Parvam consul-pvt.ltd**
 - 💻 All of my projects are available on [GitHub](https://github.com/shwethamj)
 
